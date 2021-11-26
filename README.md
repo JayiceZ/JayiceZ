@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi,I am Jayice 👋
+- Interested in **Database**,**Storage** and **Distributed System**, But I just know little.
+- Can code in Rust/C++/Java/Golang, but i am a noob.
 
 <!--
 **JayiceZ/JayiceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
