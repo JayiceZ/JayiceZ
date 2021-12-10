@@ -2,7 +2,7 @@
 - Interested in **Database**,**Storage** and **Distributed System**, But just know little.
 - Can code in Rust/C++/Java/Golang, but just a noob.
 
-🌱 I’m currently learning Rust/Distributed System
+🌱 I’m currently learning `Rust` & `Distributed System`
 
 <!--
 **JayiceZ/JayiceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
