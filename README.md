@@ -1,4 +1,4 @@
-### Hi,I am Jayice 👋
+### Hi,I am Jayice👋. An ungraduated student.
 - Interested in **Database**,**Storage** and **Distributed System**, But just know little.
 - Can code in Rust/C++/Java/Golang, but just a noob.
 
