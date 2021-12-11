@@ -3,6 +3,7 @@
 - Can code in Rust/C++/Java/Golang, but just a noob.
 
 🌱 I’m currently learning `Rust` & `Distributed System`
+📫 Reach me: jayice666
 
 <!--
 **JayiceZ/JayiceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
