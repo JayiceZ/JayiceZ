@@ -1,8 +1,8 @@
 ### Hi,I am Jayice👋. An undergraduate.
-- Interested in **Database**,**Storage** and **Distributed System**, But just know little.
+- Interested in **Storage** and **Distributed System**, But just know little.
 - Can code in Rust/C++/Java/Golang, but just a noob.
 
-🌱 I’m currently learning `Rust` & `Distributed System`
+🌱 I’m currently learning `C++` & `Memory Allocator`
 
 📫 Reach me: jayice666
 
