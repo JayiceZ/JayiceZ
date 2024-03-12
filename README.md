@@ -1,8 +1,6 @@
-### Hi,I am Jayice👋. An undergraduate.
+### Hi,I am Jayice👋.
 - Interested in **Storage** and **Distributed System**, But just know little.
 - Can code in Rust/C++/Java/Golang, but just a noob.
-
-🌱 I’m currently learning `C++` & `Memory Allocator`
 
 📫 Reach me: jayice666
 
