@@ -2,7 +2,10 @@
 - Interested in **Storage** and **Distributed System**, But just know little.
 - Can code in Rust/C++/Java/Golang, but just a noob.
 
-📫 Reach me: jayice666
+📫 Reach me
+```
+echo amF5aWNlNjY2Cg==|base64 -d
+```
 
 <!--
 **JayiceZ/JayiceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
