@@ -4,7 +4,7 @@
 
 📫 Reach me
 ```
-echo amF5aWNlNjY2Cg==|base64 -d
+echo d2VjaGF0OmpheWljZTY2NiAgIGVtYWlsOjExODU0MzA0MTFAcXEuY29t|base64 -d
 ```
 
 <!--
