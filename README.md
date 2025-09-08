@@ -1,5 +1,5 @@
 ### Hi,I am Jayice👋.
-- Interested in **Storage** and **Distributed System**, But just know little.
+- Interested in **Storage** and **Distributed System**.
 - Can code in Rust/C++/Java/Golang, but just a noob.
 
 📫 Reach me
